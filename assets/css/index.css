@@ -1,0 +1,9 @@
+.index-form
+{
+    display: table-cell;
+    height: 100vh;
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    width: 100vw;
+}

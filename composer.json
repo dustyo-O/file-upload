@@ -1,0 +1,15 @@
+{
+    "name": "dusty/file-upload",
+    "description": "Simple MVC file Upload",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexandr Shleyko",
+            "email": "dusty@yandex-team.ru"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "gregwar/captcha": "^1.1"
+    }
+}
